@@ -1,0 +1,14 @@
+Project: OverszClub WordPress Theme
+
+Stack:
+WordPress
+WooCommerce
+TailwindCSS
+Vanilla JS
+
+Code rules:
+- Follow WordPress coding standards
+- Escape outputs
+- Use modular architecture
+- Keep logic inside /inc
+- Avoid hardcoded URLs

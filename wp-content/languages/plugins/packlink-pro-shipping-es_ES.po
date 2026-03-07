@@ -1,0 +1,305 @@
+# Translation of Plugins - Packlink PRO for WooCommerce - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Packlink PRO for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-31 13:54:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Packlink PRO for WooCommerce - Stable (latest release)\n"
+
+#: Controllers/class-packlink-order-overview-controller.php:335
+#: resources/views/order-overview-hidden-fields.php:35
+msgid "Send with Packlink"
+msgstr "Enviar a Packlink"
+
+#: Controllers/class-packlink-order-overview-controller.php:322
+#: resources/views/order-overview-hidden-fields.php:30
+msgid "View on Packlink"
+msgstr "Ver en Packlink"
+
+#: resources/views/order-overview-hidden-fields.php:24
+msgid "Previous attempt to create a draft failed."
+msgstr "El intento anterior de crear un borrador falló."
+
+#: Controllers/class-packlink-order-overview-controller.php:329
+#: resources/views/order-overview-hidden-fields.php:22
+msgid "Draft is currently being created."
+msgstr "Se esta creando el borrador."
+
+#: resources/views/auto-test.php:86
+msgid "Open PacklinkPRO module"
+msgstr "Abrir el módulo PacklinkPRO"
+
+#: resources/views/auto-test.php:78
+msgid "Download test log"
+msgstr "Descargar registro de pruebas"
+
+#: resources/views/auto-test.php:70
+msgid "The test did not complete successfully."
+msgstr "La prueba no se ha completado correctamente."
+
+#: resources/views/auto-test.php:60
+msgid "Auto-test passed successfully!"
+msgstr "¡Prueba automática superada correctamente!"
+
+#: resources/views/auto-test.php:41
+msgid "Start"
+msgstr "Iniciar"
+
+#: resources/views/auto-test.php:32
+msgid "PacklinkPRO module auto-test"
+msgstr "Prueba automática del módulo PacklinkPRO"
+
+#. translators: %s: Module URL.
+#: upgrade/upgrade-2.0.4.php:10
+msgid "With this version you will have access to any shipping service that your clients demand. Go to the <a href=\"%s\">configuration</a> and select which shipping services should be offered to your customers!"
+msgstr "Con esta versión, tendrás acceso a cualquier servicio de envío que tus clientes te demanden. Ve a <a href=\"%s\">configuración</a> y selecciona que servicio de envío quieres ofrecer a tus clientes."
+
+#: class-plugin.php:801 class-plugin.php:814 class-plugin.php:827
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Error. Por favor, actualiza la página y vuelve a intentarlo."
+
+#: resources/views/error-message.php:16 resources/views/notice-message.php:16
+#: resources/views/success-message.php:16
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: class-plugin.php:343
+msgid "Configuration"
+msgstr "Configuración"
+
+#: class-plugin.php:343
+msgid "View Packlink configuration"
+msgstr "Ver la configuración de Packlink"
+
+#: class-plugin.php:125
+msgid "Please install and activate WooCommerce."
+msgstr "Por favor, instala y activa WooCommerce."
+
+#: class-plugin.php:112
+msgid "cURL is not installed or enabled in your PHP installation. This is required for background task to work. Please install it and then refresh this page."
+msgstr "Esta URL no está instalada o habilitado en su instalación de PHP. Esto es necesario para que la tarea en segundo plano funcione. Por favor instálalo y luego actualiza esta página."
+
+#: Controllers/class-packlink-order-overview-controller.php:366
+msgid "Unable to create bulk labels file"
+msgstr "No se puede crear el archivo de etiquetas de forma masiva"
+
+#: Controllers/class-packlink-order-overview-controller.php:128
+msgid "Printed label"
+msgstr "Etiqueta impresa"
+
+#: Controllers/class-packlink-order-overview-controller.php:108
+#: Controllers/class-packlink-order-overview-controller.php:210
+#: Controllers/class-packlink-order-overview-controller.php:216
+#: Controllers/class-packlink-order-overview-controller.php:228
+msgid "Label is not yet available."
+msgstr "La etiqueta aún no está disponible."
+
+#: Controllers/class-packlink-order-overview-controller.php:81
+msgid "Print labels"
+msgstr "Imprimir etiquetas"
+
+#: Controllers/class-packlink-order-overview-controller.php:68
+msgid "Packlink label"
+msgstr "Etiqueta de Packlink"
+
+#: resources/views/meta-post-box.php:127
+msgid "Draft is currently being created in Packlink"
+msgstr "El borrador se está creando actualmente en Packlink "
+
+#: resources/views/meta-post-box.php:120
+msgid "Create draft"
+msgstr "Crear borrador"
+
+#: Components/Services/class-shipment-draft-service.php:65
+#: resources/views/meta-post-box.php:112
+msgid "Previous attempt to create a draft failed. Error: %s"
+msgstr "El intento anterior de crear un borrador falló. Error: %s"
+
+#: Controllers/class-packlink-order-overview-controller.php:129
+#: resources/views/meta-post-box.php:101
+msgid "Print label"
+msgstr "Imprimir etiqueta"
+
+#: resources/views/meta-post-box.php:94
+msgid "View on Packlink PRO"
+msgstr "Ver en Packlink PRO"
+
+#: resources/views/meta-post-box.php:81
+msgid "Packlink shipping price"
+msgstr "Precio de envío de Packlink"
+
+#: resources/views/meta-post-box.php:75
+msgid "Reference number"
+msgstr "Número de referencia"
+
+#: resources/views/meta-post-box.php:67
+msgid "Status"
+msgstr "Estado"
+
+#: resources/views/meta-post-box.php:58
+msgid "Track it!"
+msgstr "¡Seguimiento!"
+
+#: resources/views/meta-post-box.php:47
+msgid "Carrier tracking codes:"
+msgstr "Códigos de seguimiento del transportista:"
+
+#: resources/views/meta-post-box.php:35
+msgid "Carrier"
+msgstr "Transportista"
+
+#: resources/views/auto-test.php:82
+msgid "Download system info file"
+msgstr "Descargar el archivo de información del sistema"
+
+#: Components/Checkout/class-block-checkout-handler.php:292
+#: resources/views/shipping-method-drop-off.php:36
+msgid "Package will be delivered to:"
+msgstr "El paquete será entregado a:"
+
+#: Components/Checkout/class-block-checkout-handler.php:290
+#: resources/views/block-checkout-shipping-method-drop-off.php:21
+#: resources/views/shipping-method-drop-off.php:29
+#: resources/views/shipping-method-drop-off.php:34
+#: resources/views/shipping-method-drop-off.php:45
+msgid "Select Drop-Off Location"
+msgstr "Selecciona la ubicación"
+
+#: Components/Checkout/class-block-checkout-handler.php:291
+#: resources/views/shipping-method-drop-off.php:29
+#: resources/views/shipping-method-drop-off.php:35
+msgid "Change Drop-Off Location"
+msgstr "Cambia la ubicación"
+
+#: Components/ShippingMethod/class-shop-shipping-method-service.php:335
+msgid "Fixed price"
+msgstr "Precio fijo"
+
+#: Components/ShippingMethod/class-shop-shipping-method-service.php:332
+msgid "% of Packlink prices"
+msgstr "% de los precios de Packlink"
+
+#: Components/ShippingMethod/class-packlink-shipping-method.php:92
+msgid "Custom Shipping Method for Packlink"
+msgstr "Método de envío personalizado para Packlink"
+
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:75
+msgid "Per order: Charge shipping for the most expensive shipping class"
+msgstr "Por cada pedido: Servicio de envío más caro"
+
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:74
+msgid "Per class: Charge shipping for each shipping class individually"
+msgstr "Por tipo: Tipo de envío para cada pedido"
+
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:69
+msgid "Calculation type"
+msgstr "Tipo de cálculo"
+
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:61
+msgid "N/A"
+msgstr "N/A"
+
+#. translators: %s: shipping class name
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:59
+msgid "\"%s\" shipping class cost"
+msgstr "\"%s\" coste tipo de envío"
+
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:46
+msgid "Shipping class costs"
+msgstr "Gastos de envío por tipo"
+
+#: Components/ShippingMethod/class-packlink-shipping-method.php:118
+#: Components/ShippingMethod/class-shop-shipping-method-service.php:329
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:27
+msgid "Packlink prices"
+msgstr "Precios de Packlink"
+
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:26
+msgid "Pricing policy selected in Packlink PRO Shipping settings."
+msgstr "Política de precios seleccionada en la configuración de envío de Packlink PRO."
+
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:24
+msgid "Pricing policy"
+msgstr "Política de precios"
+
+#: Components/ShippingMethod/class-packlink-shipping-method.php:91
+#: Components/ShippingMethod/class-packlink-shipping-method.php:117
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:20
+msgid "Packlink Shipping"
+msgstr "Envío de Packlink"
+
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:19
+msgid "This controls the title which the user sees during checkout."
+msgstr "Esto controla el título que el usuario ve durante el proceso de pago."
+
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:17
+msgid "Method title"
+msgstr "Título del método"
+
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:10
+msgid "If no costs are set for shipping classes, costs defined in Packlink PRO configuration will be used."
+msgstr "Si no se definen precios en función del tipo de envío, se utilizarán los precios definidos en la configuración de Packlink PRO."
+
+#. translators: WooCommerce shipping classes URL.
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:9
+msgid "These costs can optionally be added based on the <a href=\"%s\">product shipping class</a>."
+msgstr "Estos costes pueden agregarse opcionalmente en función de la <a href=\"%s\"> tipo del envío del producto </a>."
+
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:7
+msgid "Use <code>[qty]</code> for the number of items, <br/><code>[cost]</code> for the total cost of items, and <code>[fee percent=\"10\" min_fee=\"20\" max_fee=\"\"]</code> for percentage based fees."
+msgstr "Usa <code> [qty] </code> para la cantidad de artículos, <br/> <code> [costo] </code> para el coste total de los artículos, y <code> [porcentaje de tarifa = \"10\" min_fee = \"20\" max_fee = \"\"] </code> para tarifas basadas en porcentajes."
+
+#: Components/ShippingMethod/includes/settings-packlink-shipping.php:7
+msgid "Enter a cost (excl. tax) or sum, e.g. <code>10.00 * [qty]</code>."
+msgstr "Introduce un precio (sin impuestos) o suma, por ejemplo, <code> 10.00 * [cantidad] </code>."
+
+#: Components/Repositories/class-base-repository.php:402
+msgid "Column is not id or index."
+msgstr "La columna no es id o índice."
+
+#. translators: %s: order identifier
+#: Components/Order/class-shop-order-service.php:140
+msgid "Order with id(%s) not found!"
+msgstr "¡Pedido con id (%s) no encontrado!"
+
+#: Components/Order/class-shop-order-service.php:122
+msgid "Status set by Packlink PRO."
+msgstr "Estado establecido por Packlink PRO."
+
+#: Components/Checkout/class-block-checkout-handler.php:154
+#: Components/Checkout/class-checkout-handler.php:152
+msgid "Please choose a drop-off location."
+msgstr "Por favor, elige un lugar de entrega."
+
+#. Author URI of the plugin
+#: packlink-pro-shipping.php
+msgid "https://pro.packlink.es/"
+msgstr "https://pro.packlink.es/"
+
+#. Author of the plugin
+#: packlink-pro-shipping.php
+msgid "Packlink Shipping S.L."
+msgstr "Packlink Shipping SL"
+
+#. Plugin Name of the plugin
+#: packlink-pro-shipping.php class-plugin.php:419
+#: Controllers/class-packlink-order-overview-controller.php:64
+#: resources/views/auto-test.php:27 resources/views/error-message.php:12
+#: resources/views/notice-message.php:12 resources/views/success-message.php:12
+msgid "Packlink PRO Shipping"
+msgstr "Packlink PRO Shipping"
+
+#. Description of the plugin
+#: packlink-pro-shipping.php
+msgid "Save up to 70% on your shipping costs. No fixed fees, no minimum shipping volume required. Manage all your shipments in a single platform."
+msgstr "Ahorra hasta un 70 % en tus costes de envío. Sin tarifas fijas, ni volumen mínimo de envíos. Gestiona todos tus envíos en una sola plataforma."
+
+#. Plugin URI of the plugin
+#: packlink-pro-shipping.php
+msgid "https://en.wordpress.org/plugins/packlink-pro-shipping/"
+msgstr "https://es.wordpress.org/plugins/packlink-pro-shipping/"

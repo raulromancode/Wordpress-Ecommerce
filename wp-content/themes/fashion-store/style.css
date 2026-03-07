@@ -1,0 +1,60 @@
+/*
+Theme Name:  Fashion Store
+Theme URI:   https://github.com/tu-usuario/fashion-store
+Author:      Proyecto de Clase
+Description: Tema de ecommerce para tienda de ropa. Diseño moderno con WooCommerce. Proyecto académico.
+Version:     1.0.0
+Requires at least: 6.0
+Tested up to:      6.5
+Requires PHP:      8.0
+License:           GNU General Public License v2 or later
+License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:       fashion-store
+Tags:              ecommerce, woocommerce, fashion, clothing, dark, minimal
+*/
+
+/* ─── Reset global ─────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html  { scroll-behavior: smooth; font-size: 16px; }
+body  { -webkit-font-smoothing: antialiased; }
+img   { display: block; max-width: 100%; height: auto; }
+a     { text-decoration: none; color: inherit; }
+ul,ol { list-style: none; }
+button, input, select, textarea { font: inherit; }
+
+/* ─── Variables de diseño ──────────────────────────────────── */
+:root {
+    /* Colores */
+    --c-bg:        #0d0d0d;
+    --c-surface:   #161616;
+    --c-surface2:  #1f1f1f;
+    --c-border:    #2a2a2a;
+    --c-border2:   #383838;
+    --c-text:      #f2ede8;
+    --c-text-mute: #888880;
+    --c-text-dim:  #444440;
+    --c-accent:    #c9a96e;   /* dorado cálido */
+    --c-accent-h:  #dbbf85;
+    --c-red:       #c0392b;
+
+    /* Tipografía */
+    --f-display: 'Cormorant Garamond', Georgia, serif;
+    --f-body:    'Jost', 'Helvetica Neue', sans-serif;
+
+    /* Espaciado */
+    --sp-xs: 8px;
+    --sp-sm: 16px;
+    --sp-md: 32px;
+    --sp-lg: 64px;
+    --sp-xl: 120px;
+
+    /* Misc */
+    --radius: 0px;
+    --nav-h:  68px;
+    --transition: 0.25s ease;
+}
+
+/* ─── Scrollbar ────────────────────────────────────────────── */
+::-webkit-scrollbar       { width: 3px; }
+::-webkit-scrollbar-track { background: var(--c-bg); }
+::-webkit-scrollbar-thumb { background: var(--c-accent); }

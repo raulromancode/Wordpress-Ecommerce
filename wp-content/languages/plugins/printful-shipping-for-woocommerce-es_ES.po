@@ -1,0 +1,646 @@
+# Translation of Plugins - Printful Integration for WooCommerce - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Printful Integration for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-08 10:34:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Printful Integration for WooCommerce - Stable (latest release)\n"
+
+#: includes/class-printful-size-guide.php:63
+msgid "Size"
+msgstr "Tamaño"
+
+#: includes/class-printful-rest-api-controller.php:81
+msgid "Advanced Printful size guide"
+msgstr "Guía avanzada de tallas de Printful"
+
+#: includes/class-printful-admin-settings.php:196
+msgid "These settings control how the new size guide will look on your WooCommerce storefront. Products with an old size guide will not be affected."
+msgstr "Estos ajustes controlan cómo se verá la nueva guía de tallas en tu página de la tienda WooCommerce. Los productos con una guía de tallas antigua no se verán afectados."
+
+#: includes/class-printful-admin-settings.php:195
+msgid "Size guide settings"
+msgstr "Ajustes de la guía de tallas"
+
+#: includes/class-printful-admin-settings.php:190
+msgid "Product personalization settings"
+msgstr "Ajustes de personalización del producto"
+
+#: includes/class-printful-admin-settings.php:186
+msgid "Integration settings"
+msgstr "Ajustes de integración"
+
+#: includes/class-printful-admin-settings.php:136
+#: includes/class-printful-size-guide.php:66
+msgid "Centimeters"
+msgstr "Centímetros"
+
+#: includes/class-printful-admin-settings.php:135
+#: includes/class-printful-size-guide.php:65
+msgid "Inches"
+msgstr "Pulgadas"
+
+#: includes/class-printful-admin-settings.php:131
+msgid "Primary measurement unit (cm/inch)"
+msgstr "Unidad de medida principal (cm/pulgada)"
+
+#: includes/class-printful-admin-settings.php:129
+msgid "Primary measurement unit"
+msgstr "Unidad de medida principal"
+
+#: includes/class-printful-admin-settings.php:123
+#: includes/class-printful-admin-settings.php:125
+msgid "Size guide button text color"
+msgstr "Color del texto del botón de la guía de tallas"
+
+#: includes/class-printful-admin-settings.php:117
+#: includes/class-printful-admin-settings.php:119
+msgid "Size guide button text"
+msgstr "Texto del botón de la guía de tallas"
+
+#: includes/class-printful-admin-settings.php:111
+#: includes/class-printful-admin-settings.php:113
+msgid "Size guide active tab background color"
+msgstr "Color del fondo de la pestaña activa de la guía de tallas"
+
+#: includes/class-printful-admin-settings.php:105
+#: includes/class-printful-admin-settings.php:107
+msgid "Size guide tab background color"
+msgstr "Color del fondo de la pestaña de la guía de tallas"
+
+#: includes/class-printful-admin-settings.php:99
+#: includes/class-printful-admin-settings.php:101
+msgid "Size guide popup background color"
+msgstr "Color del fondo del mensaje emergente de la guía de tallas"
+
+#: includes/class-printful-admin-settings.php:93
+#: includes/class-printful-admin-settings.php:95
+msgid "Size guide popup text color"
+msgstr "Color del texto del mensaje emergente de la guía de tallas"
+
+#: includes/class-printful-admin-settings.php:89
+msgid "Size guide popup title text"
+msgstr "Texto del título del mensaje emergente de la guía de tallas"
+
+#: includes/class-printful-admin-settings.php:87
+msgid "Size guide popup title"
+msgstr "Título del mensaje emergente de la guía de tallas"
+
+#: includes/class-printful-size-guide.php:62
+msgid "Product measurements"
+msgstr "Medidas del producto"
+
+#: includes/class-printful-size-guide.php:61
+msgid "Measure yourself"
+msgstr "Mídete a ti mismo"
+
+#: includes/class-printful-admin-dashboard.php:133
+msgid "Loading your orders..."
+msgstr "Cargando tus pedidos..."
+
+#: includes/class-printful-admin-dashboard.php:127
+msgid "Loading your stats..."
+msgstr "Cargando tus estadísticas..."
+
+#: includes/class-printful-shipping.php:65
+msgid "Show Printful warnings"
+msgstr "Mostrar advertencias de Printful"
+
+#: includes/class-printful-shipping.php:61
+msgid "Disable standard Woocommerce rates for products fulfilled by Printful"
+msgstr "Desactivar tarifas de WooCommerce estándar para productos procesados por Printful"
+
+#: includes/class-printful-shipping.php:59
+msgid "Disable Woocommerce rates"
+msgstr "Desactivar tarifas de WooCommerce"
+
+#: includes/class-printful-shipping.php:55
+msgid "Enable this shipping method"
+msgstr "Activar este método de envío"
+
+#: includes/class-printful-shipping.php:53
+msgid "Enable/Disable"
+msgstr "Activar/Desactivar"
+
+#: includes/class-printful-admin-status.php:152
+msgid "Testing your store (this may take up to 30 seconds)..."
+msgstr "Probando tu tienda (puede tardar hasta 30 segundos)..."
+
+#: includes/class-printful-admin-status.php:103
+msgid "If you are using WP SpamShield, you might experience problems connecting to Printful and pushing products."
+msgstr "Si estás usando WP SpamShield, puede tener problemas para conectar con Printful y publicar productos."
+
+#: includes/class-printful-admin-status.php:102
+msgid "WP SpamShield"
+msgstr "WP SpamShield"
+
+#: includes/class-printful-admin-status.php:96
+msgid "W3 Total Cache DB Cache"
+msgstr "W3 Total Cache DB Cache"
+
+#: includes/class-printful-admin-status.php:91
+msgid "PHP script time limit"
+msgstr "Límite de tiempo del script PHP"
+
+#: includes/class-printful-admin-status.php:87
+msgid "Set PHP allocated memory limit to at least 128mb. Contact your hosting provider if you need help with this."
+msgstr "Define el límite de memoria asignado a PHP en un mínimo de 128 MB. Si necesitas ayuda con esto, ponte en contacto con tu proveedor de hosting."
+
+#: includes/class-printful-admin-status.php:86
+msgid "PHP memory limit"
+msgstr "Límite de memoria de PHP"
+
+#: includes/class-printful-admin-status.php:76
+msgid "Recent store sync errors"
+msgstr "Errores recientes de sincronización con la tienda"
+
+#: includes/class-printful-admin-status.php:66
+msgid "WordPress remote requests"
+msgstr "Solicitudes remotas de WordPress"
+
+#: includes/class-printful-admin-status.php:61
+msgid "WooCommerce authentication URL access"
+msgstr "Acceso a la URL de autenticación de WooCommerce"
+
+#: includes/class-printful-admin-status.php:57
+msgid "Printful needs access to your WooCommerce API for the integration to work - otherwise we can't sync your store, push or pull your products etc."
+msgstr "Printful necesita acceso a tu API de WooCommerce para que la integración funcione; de lo contrario, no podremos sincronizar tu tienda, enviar o recuperar tus productos, etc."
+
+#: includes/class-printful-admin-status.php:56
+msgid "WooCommerce API keys are set"
+msgstr "Las claves de la API de WooCommerce están establecidas"
+
+#: includes/class-printful-admin-status.php:52
+msgid "Printful requires WooCommerce webhooks to be set up to quickly capture you incoming orders, products updates etc."
+msgstr "Printful necesita que los webhooks de WooCommerce estén configurados para capturar rápidamente tus pedidos entrantes, actualizaciones de productos, etc."
+
+#: includes/class-printful-admin-status.php:51
+msgid "WooCommerce Webhooks"
+msgstr "WooCommerce Webhooks"
+
+#: includes/class-printful-admin-status.php:47
+msgid "WordPress should always be updated to the latest version. Updates can be installed from your WordPress admin dashboard."
+msgstr "WordPress debe estar siempre actualizado a la versión más reciente. Las actualizaciones se pueden instalar desde el panel de control de administración de WordPress."
+
+#: includes/class-printful-admin-status.php:46
+msgid "WordPress version"
+msgstr "Versión de WordPress"
+
+#: includes/class-printful-admin-status.php:32
+msgid "Is your store successfully connected to Printful API?"
+msgstr "¿Está tu tienda conectada correctamente a la API de Printful?"
+
+#: includes/class-printful-admin-status.php:31
+msgid "Connection to Printful API"
+msgstr "Conexión con la API de Printful"
+
+#: includes/templates/status-report.php:12
+msgid "Copy"
+msgstr "Copiar"
+
+#: includes/templates/shipping-notification.php:7
+msgid "WooCommerce Shipping settings"
+msgstr "Ajustes de envío de WooCommerce"
+
+#: includes/templates/shipping-notification.php:7
+msgid "To enable/disable Printful shipping for your store go to"
+msgstr "Para activar o desactivar los envíos de Printful para tu tienda, ve a"
+
+#: includes/templates/shipping-notification.php:6
+msgid "Printful Shipping"
+msgstr "Envíos de Printful"
+
+#: includes/templates/order-table.php:49
+msgid "Open in Printful"
+msgstr "Abrir en Printful"
+
+#: includes/templates/order-table.php:17 includes/templates/order-table.php:63
+msgid "Actions"
+msgstr "Acciones"
+
+#: includes/templates/order-table.php:16 includes/templates/order-table.php:62
+msgid "Total"
+msgstr "Total"
+
+#: includes/templates/order-table.php:14 includes/templates/order-table.php:60
+msgid "From"
+msgstr "Desde"
+
+#: includes/templates/order-table.php:13 includes/templates/order-table.php:59
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/templates/order-table.php:12 includes/templates/order-table.php:58
+msgid "Order"
+msgstr "Pedido"
+
+#: includes/templates/connect.php:35
+msgid "You're almost done! Just 2 more steps to have your WooCommerce store connected to Printful for automatic order fulfillment."
+msgstr "¡Ya casi estás! Solo te faltan dos pasos para que tu tienda de WooCommerce esté conectada a Printful para la gestión automática de tus pedidos."
+
+#: includes/templates/connect.php:21
+msgid "To connect your store to Printful, fix the following errors:"
+msgstr "Para conectar tu tienda a Printful, corrige los siguientes errores:"
+
+#: includes/templates/connect.php:14
+msgid "Connect to Printful"
+msgstr "Conectar a Printful"
+
+#: includes/templates/status-table.php:60
+msgid "Warnings are issued when the test was unable to come to a definite conclusion or if the result was passable, but not ideal."
+msgstr "Las advertencias se muestran cuando la prueba no puede llegar a una conclusión definitiva o si el resultado es aceptable, aunque no ideal."
+
+#: includes/templates/status-table.php:44
+msgid "FAIL"
+msgstr "ERROR"
+
+#: includes/templates/status-table.php:42
+msgid "NOT CONNECTED"
+msgstr "NO CONECTADA"
+
+#: includes/templates/status-table.php:40
+msgid "WARNING"
+msgstr "ADVERTENCIA"
+
+#: includes/templates/status-table.php:24
+#: includes/templates/status-table.php:54
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/templates/status-table.php:23
+#: includes/templates/status-table.php:53
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/templates/status-table.php:14
+msgid "There are errors with your store setup that may cause the Printful integration to not work as intended!"
+msgstr "¡Hay errores en la configuración de tu tienda que pueden provocar que la integración con Printful no funcione como se espera!"
+
+#: includes/templates/status-table.php:8
+msgid "Looks like the everything is set up correctly and Printful integration should work as intended."
+msgstr "Parece que todo está configurado correctamente y que la integración de Printful debe funcionar como se espera."
+
+#: includes/templates/support-info.php:25
+msgid "Are you experiencing technical issues? Solve them on your own by reading these helpful guides and video tutorials."
+msgstr "¿Estás teniendo problemas técnicos? Lee estas prácticas guías y videotutoriales para resolverlas tú mismo."
+
+#: includes/templates/support-info.php:24
+#: includes/templates/support-info.php:27
+msgid "Integration help"
+msgstr "Ayuda de integración"
+
+#: includes/templates/support-info.php:11
+msgid "Contact support"
+msgstr "Contactar con atención al cliente"
+
+#: includes/templates/support-info.php:9
+msgid "We'd love to hear from you."
+msgstr "Estaremos encantados de responderte."
+
+#: includes/templates/support-info.php:9
+msgid "Email, call, text, or visit us. We've got support teams in the USA and Europe to make sure we're there when you need us."
+msgstr "Envíanos un mensaje de correo, llámanos, háblanos por el chat o visítanos. Tenemos equipos de atención al cliente en Estados Unidos y Europa para estar siempre a tu lado cuando nos necesites."
+
+#: includes/templates/support-info.php:8
+msgid "Need help? Get in touch!"
+msgstr "¿Necesitas ayuda? ¡Ponte en contacto con nosotros!"
+
+#: includes/templates/setting-submit.php:23
+msgid "Saved successfully"
+msgstr "Guardado correctamente"
+
+#: includes/templates/setting-submit.php:15
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: includes/templates/error.php:5
+msgid "Error:"
+msgstr "Error:"
+
+#: includes/templates/quick-links.php:30
+msgid "Billing"
+msgstr "Facturación"
+
+#: includes/templates/quick-links.php:26
+msgid "My Account"
+msgstr "Mi cuenta"
+
+#: includes/templates/quick-links.php:22
+msgid "Reports"
+msgstr "Informes"
+
+#: includes/templates/quick-links.php:18
+msgid "Stores"
+msgstr "Tiendas"
+
+#: includes/templates/quick-links.php:10
+msgid "Orders"
+msgstr "Pedidos"
+
+#: includes/templates/stats.php:46
+msgid "PROFIT"
+msgstr "BENEFICIOS"
+
+#: includes/templates/stats.php:39 includes/templates/stats.php:46
+msgid "last 28 days"
+msgstr "últimos 28 días"
+
+#: includes/templates/stats.php:27
+msgid "last 7 days"
+msgstr "últimos 7 días"
+
+#: includes/templates/stats.php:14
+msgid "today"
+msgstr "hoy"
+
+#: includes/class-printful-rest-api-controller.php:149
+msgid "The product ID is invalid"
+msgstr "El ID del producto no es válido"
+
+#: includes/class-printful-rest-api-controller.php:61
+msgid "Printful size guide"
+msgstr "Guía de tallas de Printful"
+
+#: includes/class-printful-rest-api-controller.php:41
+msgid "Store Identifier"
+msgstr "Identificador de la tienda"
+
+#: includes/class-printful-rest-api-controller.php:36
+msgid "Printful access key"
+msgstr "Clave de acceso de Printful"
+
+#: includes/class-printful-taxes.php:166
+msgid "Sales Tax"
+msgstr "Impuesto sobre ventas"
+
+#: includes/class-printful-admin.php:124 includes/templates/connect.php:40
+msgid "Connect"
+msgstr "Conectar"
+
+#: includes/class-printful-admin.php:117 includes/templates/order-table.php:15
+#: includes/templates/order-table.php:61 includes/templates/status-table.php:25
+#: includes/templates/status-table.php:55
+msgid "Status"
+msgstr "Estado"
+
+#: includes/class-printful-admin.php:116
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/class-printful-admin-settings.php:434
+msgid "International from EU"
+msgstr "Internacional desde UE"
+
+#: includes/class-printful-admin-settings.php:428
+msgid "International from USA"
+msgstr "Internacional desde EEUU"
+
+#: includes/class-printful-admin-settings.php:264
+msgid "Shipping Methods"
+msgstr "Métodos de envío"
+
+#: includes/class-printful-admin-settings.php:78
+msgid "Personalization popup title text"
+msgstr "Texto del título del emergente de personalización"
+
+#: includes/class-printful-admin-settings.php:76
+msgid "Personalization popup title"
+msgstr "Título del emergente de personalización"
+
+#: includes/class-printful-admin-settings.php:72
+msgid "Personalization button background color"
+msgstr "Color de fondo del emergente de personalización"
+
+#: includes/class-printful-admin-settings.php:70
+msgid "Personalization button color"
+msgstr "Color del botón de personalización"
+
+#: includes/class-printful-admin-settings.php:64
+#: includes/class-printful-admin-settings.php:66
+msgid "Personalization button text"
+msgstr "Texto del botón de personalización"
+
+#: includes/class-printful-admin-settings.php:53
+msgid "Disable SSL"
+msgstr "Desactivar SSL"
+
+#. translators: %s is a placeholder for a sales tax link
+#: includes/class-printful-admin-settings.php:47
+msgid "Calculated for all products listed on your store (including non-Printful products) that ship to %s. Before enabling, make sure you are registered for a seller permit in all these states."
+msgstr "Se calcula para todos los productos que aparecen en tu tienda (incluidos los productos que no son de Printful) que se envían a %s. Antes de activarlo, asegúrate de que dispones de un permiso de venta en todos estos estados."
+
+#: includes/class-printful-admin-settings.php:43
+msgid "Calculate sales tax"
+msgstr "Calcular impuesto sobre las ventas"
+
+#. Author URI of the plugin
+#: printful-shipping.php
+msgid "http://www.printful.com"
+msgstr "http://www.printful.com"
+
+#. Author of the plugin
+#: printful-shipping.php
+msgid "Printful"
+msgstr "Printful"
+
+#: includes/templates/stats.php:11 includes/templates/stats.php:24
+#: includes/templates/stats.php:37
+msgid "ORDER"
+msgid_plural "ORDERS"
+msgstr[0] "PEDIDO"
+msgstr[1] "PEDIDOS"
+
+#: includes/class-printful-admin-support.php:78
+msgid "##### Printful Checklist #####\n"
+msgstr "##### Lista de comprobación de Printful #####\n"
+
+#: includes/class-printful-shipping.php:67
+msgid "Display Printful status messages if rate API request fails"
+msgstr "Mostrar los mensajes de estado de Printful si falla la solicitud de la tarifa de la API"
+
+#: includes/class-printful-admin-status.php:71
+msgid "WordPress Site URL"
+msgstr "URL del sitio WordPress"
+
+#: includes/templates/status-table.php:38
+msgid "OK"
+msgstr "Aceptar"
+
+#: includes/class-printful-size-chart-tab.php:47
+#: includes/class-printful-size-chart-tab.php:60
+msgid "Size Chart"
+msgstr "Gráfico de tallas"
+
+#: includes/class-printful-size-chart-tab.php:34
+msgid "Size chart"
+msgstr "Gráfico de tallas"
+
+#. Plugin Name of the plugin
+#: printful-shipping.php
+msgid "Printful Integration for WooCommerce"
+msgstr "Printful Integration for WooCommerce"
+
+#. Plugin URI of the plugin
+#: printful-shipping.php
+msgid "https://wordpress.org/plugins/printful-shipping-for-woocommerce/"
+msgstr "https://es.wordpress.org/plugins/printful-shipping-for-woocommerce/"
+
+#: includes/class-printful-admin-support.php:40
+msgid "Building support report (this may take up to 30 seconds)..."
+msgstr "Creando el informe de compatibilidad (esto puede tardar hasta 30 segundos)..."
+
+#: includes/class-printful-admin-status.php:97
+msgid "If you are using W3 Total Cache, the database caching feature needs to be disabled since it can cause issues with product push to store."
+msgstr "Si estás usando W3 Total Cache, la característica de almacenamiento en la caché de la base de datos tiene que ser desactivada, ya que puede causar problemas con el envío de productos a la tienda."
+
+#: includes/class-printful-admin-status.php:92
+msgid "Set PHP script execution time limit to at least 30 seconds. This is required to successfully push products with many variants. Contact your hosting provider if you need help with this."
+msgstr "Establece el límite de tiempo de ejecución del script PHP, al menos, en 30 segundos. Es necesario para enviar correctamente los productos que tengan muchas variantes. Si necesitas ayuda con esto, ponte en contacto con tu proveedor de alojamiento."
+
+#: includes/class-printful-admin-status.php:36
+msgid "Printful API key is set"
+msgstr "La clave de la API de Printful está configurada"
+
+#: includes/templates/status-report.php:7
+msgid "Copy the box content below and add it to your support message"
+msgstr "Copia el contenido de la siguiente caja y añádelo a tu mensaje para el soporte"
+
+#: includes/class-printful-admin-status.php:109
+msgid "Print Aura plugin is known to cause issues so it needs to be removed."
+msgstr "Se sabe que el plugin Print Aura causa problemas, por lo que debe eliminarse."
+
+#: includes/class-printful-admin-status.php:108
+msgid "Remove Print Aura plugin"
+msgstr "Eliminar el plugin Print Aura"
+
+#: includes/class-printful-admin-status.php:82
+msgid "Make the uploads directory writable. This is required for mockup generator product push to work correctly. Contact your hosting provider if you need help with this."
+msgstr "Haz que se pueda escribir en el directorio de subidas. Esto es necesario para que el generador de maquetas de producto funcione correctamente. Ponte en contacto con tu proveedor de alojamiento si necesitas ayuda con esto."
+
+#: includes/class-printful-admin-status.php:81
+msgid "Write permissions"
+msgstr "Permisos de escritura"
+
+#: includes/class-printful-admin-status.php:77
+msgid "Printful will connect to your store's API regularly and sync your latest products, orders etc. If there have been any recent issues with sync, this check will fail."
+msgstr "Printful se conectará a la API de tu tienda con regularidad y sincronizará tus últimos productos, pedidos, etc. Si ha habido algún problema reciente con la sincronización, esta verificación fallará."
+
+#: includes/class-printful-admin-status.php:72
+msgid "If your currently setup WordPress site URL is redirected to another URL the integration might not work correctly. Typically this happens with incorrect http to https redirects. Go to Settings > General to fix this."
+msgstr "Si la URL de tu sitio WordPress configurado actualmente redirige a otra URL, es posible que la integración no funcione correctamente. Normalmente, esto sucede con redireccionamientos incorrectos de http a https. Dirígete a Ajustes > Generales para solucionar este problema."
+
+#: includes/class-printful-admin-status.php:67
+msgid "WordPress needs to be able to connect to Printful server to call webhooks. If this check fails, contact your hosting support."
+msgstr "WordPress necesita poder conectarse al servidor Printful para llamar a los webhooks. Si esta verificación falla, comunícate con el soporte de tu alojamiento."
+
+#: includes/class-printful-admin-status.php:62
+msgid "Printful needs access to WooCommerce API authorize page. This sometimes may get blocked due to hosts having unnecessarily intrusive security checks in place that prevent WooCommerce API authentication from working (for example mod_security rule #1234234). If this check fails, you will not be able authorize Printful app."
+msgstr "Printful necesita acceso a la página de autorización de la API de WooCommerce. Esto a veces puede bloquearse debido a que los servidores tienen controles de seguridad innecesariamente intrusivos que impiden que funcione la autenticación de la API de WooCommerce (por ejemplo, la regla mod_security #1234234). Si esta verificación falla, no podrás autorizar la aplicación Printful."
+
+#: includes/class-printful-admin-status.php:42
+msgid "WooCommerce API will not work unless your permalinks in Settings > Permalinks are set up correctly. Make sure you that they are NOT set to \"plain\"."
+msgstr "La API de WooCommerce no funcionará a menos que tus enlaces permanentes en «Ajustes > Enlaces permanentes» estén establecidos correctamente. Asegúrate de que NO estén establecidos como «simple»."
+
+#: includes/class-printful-admin-status.php:41
+msgid "WordPress Permalinks"
+msgstr "Enlaces permanentes de WordPress"
+
+#: includes/class-printful-admin-status.php:37
+msgid "Your store needs access to Printful API to use most of it's features like shipping rates, tax rates and other settings."
+msgstr "Tu tienda necesita acceso a la API de Printful para usar la mayoría de sus características, como tarifas de envío, tasas de impuestos y otros ajustes."
+
+#: includes/templates/status-report.php:9
+msgid "Note: this status report may not include an error log. Contact your hosting provider if you need help with acquiring error logs."
+msgstr "Nota: este informe de estado puede no incluir un registro de errores. Ponte en contacto con tu proveedor de alojamiento si necesitas ayuda para adquirir registros de errores."
+
+#: includes/templates/order-table.php:70
+msgid "Once your store gets some Printful product orders, they will be shown here!"
+msgstr "En cuanto tu tienda reciba pedidos de productos de Printful, ¡aparecerán aquí!"
+
+#: includes/templates/support-info.php:19
+msgid "See Printful FAQ"
+msgstr "Consulta las preguntas frecuentes de Printful"
+
+#: includes/templates/support-info.php:17
+msgid "Whether you're a video tutorial fan or prefer the written answers – we've got it covered!"
+msgstr "Tanto si prefieres videotutoriales como si te gustan más las respuestas escritas, ¡lo tenemos cubierto!"
+
+#: includes/templates/support-info.php:17
+msgid "Getting started made easy – read the FAQs to jumpstart your business."
+msgstr "Comienza de manera fácil: lee las preguntas frecuentes para impulsar tu negocio."
+
+#: includes/templates/support-info.php:16
+msgid "Read our FAQs"
+msgstr "Leer nuestras preguntas frecuentes"
+
+#: includes/templates/quick-links.php:34
+msgid "Notifications"
+msgstr "Avisos"
+
+#: includes/templates/quick-links.php:14
+msgid "File library"
+msgstr "Biblioteca de archivos"
+
+#: includes/class-printful-rest-api-controller.php:264
+msgid "Sorry, you are not allowed to edit this resource."
+msgstr "Lo siento, pero no tienes permitido editar este recurso."
+
+#: includes/class-printful-rest-api-controller.php:247
+msgid "Sorry, you cannot list resources."
+msgstr "Lo siento, pero no puedes ver la lista de los recursos."
+
+#: includes/class-printful-rest-api-controller.php:166
+msgid "You do not have permission to edit the size chart"
+msgstr "No tienes permisos para editar el gráfico de tallas"
+
+#: includes/class-printful-rest-api-controller.php:160
+msgid "The product is not found"
+msgstr "No se ha encontrado el producto"
+
+#: includes/class-printful-rest-api-controller.php:143
+msgid "No size chart was provided"
+msgstr "No se ha proporcionado ningún gráfico de tallas"
+
+#: includes/class-printful-rest-api-controller.php:55
+#: includes/class-printful-rest-api-controller.php:75
+msgid "Unique identifier for the resource."
+msgstr "Identificador único del recurso."
+
+#: includes/class-printful-admin.php:153
+msgid " issue"
+msgid_plural " issues"
+msgstr[0] " problema"
+msgstr[1] " problemas"
+
+#: includes/class-printful-admin.php:118
+msgid "Support"
+msgstr "Soporte"
+
+#: includes/class-printful-admin.php:79 includes/class-printful-admin.php:122
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: includes/class-printful-admin-settings.php:271
+msgid "You need to be connected to Printful API to edit carrier settings!"
+msgstr "¡Debes estar conectado a la API de Printful para editar los ajustes del proveedor!"
+
+#: includes/class-printful-admin-settings.php:265
+msgid ""
+"Here you can choose the shipping methods you want Printful to use for shipping your orders.\n"
+"            Uncheck the ones you want to disable. From your selection, our algorithm will determine the fastest, most cost-effective, and most reliable method for each order."
+msgstr ""
+"Aquí puede elegir los métodos de envío que quieres que Printful use para enviar tus pedidos.\n"
+"            Desmarca los que quieras desactivar. A partir de tu selección, nuestro algoritmo determinará el método más rápido, rentable y confiable para cada pedido."
+
+#: includes/class-printful-admin-settings.php:55
+msgid "Use HTTP instead of HTTPS to connect to the Printful API (may be required if the plugin does not work for some hosting configurations)"
+msgstr "Usa HTTP en lugar de HTTPS para conectarte a la API de Printful (puede ser necesario si el plugin no funciona para algunas configuraciones de alojamiento)"
+
+#: includes/class-printful-admin-settings.php:38
+msgid "states where Printful applies sales tax"
+msgstr "provincias donde Printful aplica el impuesto a las ventas"
